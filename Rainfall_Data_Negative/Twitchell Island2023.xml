@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cimis_data>
+	<daily_data>
+		<start_date>1/1/2023</start_date>
+		<end_date>5/29/2023</end_date>
+		<print_date>6/1/2023</print_date>
+		<unit>English</unit>
+		<station station_nbr="140" station_name="Twitchell Island" region="San Francisco Bay">
+			<date val="1/1/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/2/2023">
+				<precipitation qc=" ">0.47</precipitation>
+			</date>
+			<date val="1/3/2023">
+				<precipitation qc=" ">0.02</precipitation>
+			</date>
+			<date val="1/4/2023">
+				<precipitation qc=" ">0.58</precipitation>
+			</date>
+			<date val="1/5/2023">
+				<precipitation qc=" ">0.67</precipitation>
+			</date>
+			<date val="1/6/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/7/2023">
+				<precipitation qc=" ">0.09</precipitation>
+			</date>
+			<date val="1/8/2023">
+				<precipitation qc=" ">0.48</precipitation>
+			</date>
+			<date val="1/9/2023">
+				<precipitation qc=" ">1.09</precipitation>
+			</date>
+			<date val="1/10/2023">
+				<precipitation qc=" ">0.61</precipitation>
+			</date>
+			<date val="1/11/2023">
+				<precipitation qc=" ">0.27</precipitation>
+			</date>
+			<date val="1/12/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/13/2023">
+				<precipitation qc=" ">0.22</precipitation>
+			</date>
+			<date val="1/14/2023">
+				<precipitation qc=" ">0.90</precipitation>
+			</date>
+			<date val="1/15/2023">
+				<precipitation qc=" ">0.53</precipitation>
+			</date>
+			<date val="1/16/2023">
+				<precipitation qc=" ">0.52</precipitation>
+			</date>
+			<date val="1/17/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/18/2023">
+				<precipitation qc=" ">0.11</precipitation>
+			</date>
+			<date val="1/19/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/20/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/21/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/22/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/23/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/24/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/25/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/26/2023">
+				<precipitation qc="H">0.00</precipitation>
+			</date>
+			<date val="1/27/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/28/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/29/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="1/30/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="1/31/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/1/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/2/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/3/2023">
+				<precipitation qc=" ">0.18</precipitation>
+			</date>
+			<date val="2/4/2023">
+				<precipitation qc=" ">0.11</precipitation>
+			</date>
+			<date val="2/5/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="2/6/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/7/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/8/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/9/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/10/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/11/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/12/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/13/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/14/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/15/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/16/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/17/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/18/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/19/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/20/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/21/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/22/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="2/23/2023">
+				<precipitation qc=" ">0.05</precipitation>
+			</date>
+			<date val="2/24/2023">
+				<precipitation qc=" ">0.94</precipitation>
+			</date>
+			<date val="2/25/2023">
+				<precipitation qc=" ">0.46</precipitation>
+			</date>
+			<date val="2/26/2023">
+				<precipitation qc=" ">0.41</precipitation>
+			</date>
+			<date val="2/27/2023">
+				<precipitation qc=" ">0.52</precipitation>
+			</date>
+			<date val="2/28/2023">
+				<precipitation qc=" ">0.22</precipitation>
+			</date>
+			<date val="3/1/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/2/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/3/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/4/2023">
+				<precipitation qc=" ">0.09</precipitation>
+			</date>
+			<date val="3/5/2023">
+				<precipitation qc=" ">0.29</precipitation>
+			</date>
+			<date val="3/6/2023">
+				<precipitation qc=" ">0.02</precipitation>
+			</date>
+			<date val="3/7/2023">
+				<precipitation qc=" ">0.03</precipitation>
+			</date>
+			<date val="3/8/2023">
+				<precipitation qc=" ">0.09</precipitation>
+			</date>
+			<date val="3/9/2023">
+				<precipitation qc=" ">1.34</precipitation>
+			</date>
+			<date val="3/10/2023">
+				<precipitation qc=" ">0.48</precipitation>
+			</date>
+			<date val="3/11/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="3/12/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="3/13/2023">
+				<precipitation qc=" ">0.05</precipitation>
+			</date>
+			<date val="3/14/2023">
+				<precipitation qc=" ">0.45</precipitation>
+			</date>
+			<date val="3/15/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/16/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/17/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/18/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/19/2023">
+				<precipitation qc=" ">0.33</precipitation>
+			</date>
+			<date val="3/20/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/21/2023">
+				<precipitation qc=" ">0.44</precipitation>
+			</date>
+			<date val="3/22/2023">
+				<precipitation qc=" ">0.22</precipitation>
+			</date>
+			<date val="3/23/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/24/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/25/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/26/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/27/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/28/2023">
+				<precipitation qc=" ">0.30</precipitation>
+			</date>
+			<date val="3/29/2023">
+				<precipitation qc=" ">0.38</precipitation>
+			</date>
+			<date val="3/30/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="3/31/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/1/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/2/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/3/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/4/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/5/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/6/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/7/2023">
+				<precipitation qc=" ">0.11</precipitation>
+			</date>
+			<date val="4/8/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/9/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/10/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/11/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/12/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/13/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/14/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/15/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/16/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/17/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/18/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/19/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/20/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/21/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/22/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/23/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/24/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/25/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/26/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/27/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/28/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/29/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="4/30/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/1/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="5/2/2023">
+				<precipitation qc=" ">0.06</precipitation>
+			</date>
+			<date val="5/3/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/4/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/5/2023">
+				<precipitation qc=" ">0.04</precipitation>
+			</date>
+			<date val="5/6/2023">
+				<precipitation qc=" ">0.14</precipitation>
+			</date>
+			<date val="5/7/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/8/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/9/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/10/2023">
+				<precipitation qc="H">0.01</precipitation>
+			</date>
+			<date val="5/11/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/12/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/13/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/14/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/15/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/16/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/17/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/18/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/19/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/20/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/21/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/22/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/23/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/24/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/25/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/26/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/27/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/28/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+			<date val="5/29/2023">
+				<precipitation qc=" ">0.00</precipitation>
+			</date>
+		</station>
+	</daily_data>
+</cimis_data>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

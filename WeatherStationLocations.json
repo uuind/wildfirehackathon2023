@@ -1,0 +1,1041 @@
+[
+ {
+  "Stn Id": 90,
+  "Station Location": "Alturas",
+  "Latitude": 41.438214,
+  "Longitude": -120.480308,
+  "qc": " "
+ },
+ {
+  "Stn Id": 216,
+  "Station Location": "Arleta",
+  "Latitude": 34.25615,
+  "Longitude": -118.382905,
+  "qc": " "
+ },
+ {
+  "Stn Id": 114,
+  "Station Location": "Arroyo Seco",
+  "Latitude": 36.347415,
+  "Longitude": -121.291248,
+  "qc": " "
+ },
+ {
+  "Stn Id": 125,
+  "Station Location": "Arvin-Edison",
+  "Latitude": 35.20581,
+  "Longitude": -118.778437,
+  "qc": " "
+ },
+ {
+  "Stn Id": 163,
+  "Station Location": "Atascadero",
+  "Latitude": 35.472556,
+  "Longitude": -120.648142,
+  "qc": " "
+ },
+ {
+  "Stn Id": 195,
+  "Station Location": "Auburn",
+  "Latitude": 38.887603,
+  "Longitude": -121.102908,
+  "qc": " "
+ },
+ {
+  "Stn Id": 146,
+  "Station Location": "Belridge",
+  "Latitude": 35.505833,
+  "Longitude": -119.691144,
+  "qc": " "
+ },
+ {
+  "Stn Id": 158,
+  "Station Location": "Bennett Valley",
+  "Latitude": 38.419439,
+  "Longitude": -122.658719,
+  "qc": " "
+ },
+ {
+  "Stn Id": 199,
+  "Station Location": "Big Bear Lake",
+  "Latitude": 34.237645,
+  "Longitude": -116.865853,
+  "qc": " "
+ },
+ {
+  "Stn Id": 244,
+  "Station Location": "Biggs",
+  "Latitude": 39.386632,
+  "Longitude": -121.835263,
+  "qc": " "
+ },
+ {
+  "Stn Id": 35,
+  "Station Location": "Bishop",
+  "Latitude": 37.358606,
+  "Longitude": -118.405471,
+  "qc": " "
+ },
+ {
+  "Stn Id": 187,
+  "Station Location": "Black Point ",
+  "Latitude": 38.090933,
+  "Longitude": -122.526703,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 135,
+  "Station Location": "Blythe NE",
+  "Latitude": 33.662869,
+  "Longitude": -114.558108,
+  "qc": " "
+ },
+ {
+  "Stn Id": 207,
+  "Station Location": "Borrego Springs ",
+  "Latitude": 33.268447,
+  "Longitude": -116.36505,
+  "qc": " "
+ },
+ {
+  "Stn Id": 47,
+  "Station Location": "Brentwood",
+  "Latitude": 37.928154,
+  "Longitude": -121.65973,
+  "qc": " "
+ },
+ {
+  "Stn Id": 84,
+  "Station Location": "Browns Valley",
+  "Latitude": 39.252561,
+  "Longitude": -121.315669,
+  "qc": " "
+ },
+ {
+  "Stn Id": 155,
+  "Station Location": "Bryte (Experimental)",
+  "Latitude": 38.599158,
+  "Longitude": -121.540406,
+  "qc": " "
+ },
+ {
+  "Stn Id": 221,
+  "Station Location": "Cadiz Valley",
+  "Latitude": 34.513611,
+  "Longitude": -115.510556,
+  "qc": " "
+ },
+ {
+  "Stn Id": 41,
+  "Station Location": "Calipatria",
+  "Latitude": 33.043151,
+  "Longitude": -115.415835,
+  "qc": " "
+ },
+ {
+  "Stn Id": 152,
+  "Station Location": "Camarillo",
+  "Latitude": 34.219386,
+  "Longitude": -118.992439,
+  "qc": " "
+ },
+ {
+  "Stn Id": 13,
+  "Station Location": "Camino",
+  "Latitude": 38.752307,
+  "Longitude": -120.73387,
+  "qc": " "
+ },
+ {
+  "Stn Id": 210,
+  "Station Location": "Carmel",
+  "Latitude": 36.540942,
+  "Longitude": -121.882096,
+  "qc": " "
+ },
+ {
+  "Stn Id": 215,
+  "Station Location": "Chatsworth",
+  "Latitude": 34.291331,
+  "Longitude": -118.570044,
+  "qc": " "
+ },
+ {
+  "Stn Id": 255,
+  "Station Location": "Chino",
+  "Latitude": 33.98535,
+  "Longitude": -117.656528,
+  "qc": "H"
+ },
+ {
+  "Stn Id": 205,
+  "Station Location": "Coalinga",
+  "Latitude": 36.175833,
+  "Longitude": -120.36027,
+  "qc": " "
+ },
+ {
+  "Stn Id": 170,
+  "Station Location": "Concord",
+  "Latitude": 38.015372,
+  "Longitude": -122.020278,
+  "qc": " "
+ },
+ {
+  "Stn Id": 245,
+  "Station Location": "Coto de Caza",
+  "Latitude": 33.621667,
+  "Longitude": -117.585278,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 88,
+  "Station Location": "Cuyama",
+  "Latitude": 34.942525,
+  "Longitude": -119.6738,
+  "qc": " "
+ },
+ {
+  "Stn Id": 6,
+  "Station Location": "Davis",
+  "Latitude": 38.535794,
+  "Longitude": -121.776385,
+  "qc": " "
+ },
+ {
+  "Stn Id": 104,
+  "Station Location": "De Laveaga",
+  "Latitude": 36.997831,
+  "Longitude": -121.996863,
+  "qc": " "
+ },
+ {
+  "Stn Id": 182,
+  "Station Location": "Delano",
+  "Latitude": 35.833059,
+  "Longitude": -119.255846,
+  "qc": " "
+ },
+ {
+  "Stn Id": 206,
+  "Station Location": "Denair II",
+  "Latitude": 37.545869,
+  "Longitude": -120.754531,
+  "qc": " "
+ },
+ {
+  "Stn Id": 228,
+  "Station Location": "Diamond Springs",
+  "Latitude": 38.636111,
+  "Longitude": -120.793056,
+  "qc": " "
+ },
+ {
+  "Stn Id": 12,
+  "Station Location": "Durham",
+  "Latitude": 39.608639,
+  "Longitude": -121.824431,
+  "qc": " "
+ },
+ {
+  "Stn Id": 213,
+  "Station Location": "El Cerrito",
+  "Latitude": 37.931547,
+  "Longitude": -122.302714,
+  "qc": " "
+ },
+ {
+  "Stn Id": 153,
+  "Station Location": "Escondido SPV",
+  "Latitude": 33.08105,
+  "Longitude": -116.975697,
+  "qc": " "
+ },
+ {
+  "Stn Id": 131,
+  "Station Location": "Fair Oaks",
+  "Latitude": 38.649964,
+  "Longitude": -121.218872,
+  "qc": " "
+ },
+ {
+  "Stn Id": 259,
+  "Station Location": "Ferndale Plain",
+  "Latitude": 40.604467,
+  "Longitude": -124.243186,
+  "qc": " "
+ },
+ {
+  "Stn Id": 7,
+  "Station Location": "Firebaugh\/Telles",
+  "Latitude": 36.851248,
+  "Longitude": -120.59098,
+  "qc": " "
+ },
+ {
+  "Stn Id": 2,
+  "Station Location": "Five Points  ",
+  "Latitude": 36.336222,
+  "Longitude": -120.112906,
+  "qc": " "
+ },
+ {
+  "Stn Id": 80,
+  "Station Location": "Fresno State",
+  "Latitude": 36.820833,
+  "Longitude": -119.742308,
+  "qc": " "
+ },
+ {
+  "Stn Id": 261,
+  "Station Location": "Gazelle",
+  "Latitude": 41.533989,
+  "Longitude": -122.532279,
+  "qc": "S"
+ },
+ {
+  "Stn Id": 222,
+  "Station Location": "Gerber South",
+  "Latitude": 40.028778,
+  "Longitude": -122.15575,
+  "qc": " "
+ },
+ {
+  "Stn Id": 211,
+  "Station Location": "Gilroy",
+  "Latitude": 37.015026,
+  "Longitude": -121.537043,
+  "qc": " "
+ },
+ {
+  "Stn Id": 212,
+  "Station Location": "Hastings Tract East",
+  "Latitude": 38.277972,
+  "Longitude": -121.740989,
+  "qc": " "
+ },
+ {
+  "Stn Id": 239,
+  "Station Location": "Hemet",
+  "Latitude": 33.664747,
+  "Longitude": -116.955121,
+  "qc": " "
+ },
+ {
+  "Stn Id": 251,
+  "Station Location": "Highland",
+  "Latitude": 34.112042,
+  "Longitude": -117.1857,
+  "qc": " "
+ },
+ {
+  "Stn Id": 248,
+  "Station Location": "Holt",
+  "Latitude": 37.93218,
+  "Longitude": -121.397461,
+  "qc": " "
+ },
+ {
+  "Stn Id": 200,
+  "Station Location": "Indio II",
+  "Latitude": 33.748586,
+  "Longitude": -116.252903,
+  "qc": " "
+ },
+ {
+  "Stn Id": 75,
+  "Station Location": "Irvine",
+  "Latitude": 33.68845,
+  "Longitude": -117.721178,
+  "qc": " "
+ },
+ {
+  "Stn Id": 247,
+  "Station Location": "Jersey Island",
+  "Latitude": 38.033386,
+  "Longitude": -121.701247,
+  "qc": " "
+ },
+ {
+  "Stn Id": 267,
+  "Station Location": "Johnstonville",
+  "Latitude": 40.364578,
+  "Longitude": -120.559397,
+  "qc": " "
+ },
+ {
+  "Stn Id": 233,
+  "Station Location": "Joshua Tree ",
+  "Latitude": 34.138104,
+  "Longitude": -116.213508,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 113,
+  "Station Location": "King City-Oasis Rd.",
+  "Latitude": 36.121275,
+  "Longitude": -121.084455,
+  "qc": "S"
+ },
+ {
+  "Stn Id": 208,
+  "Station Location": "La Quinta II",
+  "Latitude": 33.678151,
+  "Longitude": -116.272921,
+  "qc": " "
+ },
+ {
+  "Stn Id": 229,
+  "Station Location": "Laguna Seca",
+  "Latitude": 36.570101,
+  "Longitude": -121.786499,
+  "qc": " "
+ },
+ {
+  "Stn Id": 192,
+  "Station Location": "Lake Arrowhead",
+  "Latitude": 34.25598,
+  "Longitude": -117.218463,
+  "qc": " "
+ },
+ {
+  "Stn Id": 256,
+  "Station Location": "Lancaster",
+  "Latitude": 34.759475,
+  "Longitude": -117.991997,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 258,
+  "Station Location": "Lemon Cove",
+  "Latitude": 36.376917,
+  "Longitude": -119.037972,
+  "qc": " "
+ },
+ {
+  "Stn Id": 262,
+  "Station Location": "Linden",
+  "Latitude": 38.06569,
+  "Longitude": -121.071747,
+  "qc": " "
+ },
+ {
+  "Stn Id": 231,
+  "Station Location": "Lompoc",
+  "Latitude": 34.672222,
+  "Longitude": -120.513056,
+  "qc": " "
+ },
+ {
+  "Stn Id": 174,
+  "Station Location": "Long Beach",
+  "Latitude": 33.798697,
+  "Longitude": -118.094792,
+  "qc": " "
+ },
+ {
+  "Stn Id": 56,
+  "Station Location": "Los Banos",
+  "Latitude": 37.09745,
+  "Longitude": -120.754227,
+  "qc": "S"
+ },
+ {
+  "Stn Id": 236,
+  "Station Location": "Macdoel II",
+  "Latitude": 41.802476,
+  "Longitude": -121.996159,
+  "qc": " "
+ },
+ {
+  "Stn Id": 70,
+  "Station Location": "Manteca",
+  "Latitude": 37.834822,
+  "Longitude": -121.223194,
+  "qc": " "
+ },
+ {
+  "Stn Id": 246,
+  "Station Location": "Markleeville",
+  "Latitude": 38.773409,
+  "Longitude": -119.79193,
+  "qc": " "
+ },
+ {
+  "Stn Id": 43,
+  "Station Location": "McArthur",
+  "Latitude": 41.063767,
+  "Longitude": -121.456019,
+  "qc": " "
+ },
+ {
+  "Stn Id": 87,
+  "Station Location": "Meloland",
+  "Latitude": 32.806183,
+  "Longitude": -115.446258,
+  "qc": " "
+ },
+ {
+  "Stn Id": 148,
+  "Station Location": "Merced",
+  "Latitude": 37.314139,
+  "Longitude": -120.3867,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 150,
+  "Station Location": "Miramar",
+  "Latitude": 32.885847,
+  "Longitude": -117.143142,
+  "qc": "R"
+ },
+ {
+  "Stn Id": 71,
+  "Station Location": "Modesto",
+  "Latitude": 37.645222,
+  "Longitude": -121.187764,
+  "qc": " "
+ },
+ {
+  "Stn Id": 159,
+  "Station Location": "Monrovia",
+  "Latitude": 34.146372,
+  "Longitude": -117.985797,
+  "qc": " "
+ },
+ {
+  "Stn Id": 260,
+  "Station Location": "Montague",
+  "Latitude": 41.798331,
+  "Longitude": -122.463425,
+  "qc": " "
+ },
+ {
+  "Stn Id": 217,
+  "Station Location": "Moorpark",
+  "Latitude": 34.269031,
+  "Longitude": -118.849319,
+  "qc": " "
+ },
+ {
+  "Stn Id": 178,
+  "Station Location": "Moraga",
+  "Latitude": 37.837614,
+  "Longitude": -122.140739,
+  "qc": " "
+ },
+ {
+  "Stn Id": 202,
+  "Station Location": "Nipomo",
+  "Latitude": 35.028281,
+  "Longitude": -120.560033,
+  "qc": " "
+ },
+ {
+  "Stn Id": 194,
+  "Station Location": "Oakdale",
+  "Latitude": 37.720739,
+  "Longitude": -120.852101,
+  "qc": " "
+ },
+ {
+  "Stn Id": 254,
+  "Station Location": "Oakland Metro",
+  "Latitude": 37.718167,
+  "Longitude": -122.197111,
+  "qc": " "
+ },
+ {
+  "Stn Id": 77,
+  "Station Location": "Oakville",
+  "Latitude": 38.428475,
+  "Longitude": -122.410206,
+  "qc": " "
+ },
+ {
+  "Stn Id": 136,
+  "Station Location": "Oasis",
+  "Latitude": 33.523694,
+  "Longitude": -116.15575,
+  "qc": " "
+ },
+ {
+  "Stn Id": 147,
+  "Station Location": "Otay Lake",
+  "Latitude": 32.628208,
+  "Longitude": -116.939281,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 183,
+  "Station Location": "Owens Lake North",
+  "Latitude": 36.488468,
+  "Longitude": -117.919428,
+  "qc": " "
+ },
+ {
+  "Stn Id": 189,
+  "Station Location": "Owens Lake South",
+  "Latitude": 36.358628,
+  "Longitude": -117.943869,
+  "qc": " "
+ },
+ {
+  "Stn Id": 193,
+  "Station Location": "Pacific Grove",
+  "Latitude": 36.63324,
+  "Longitude": -121.934847,
+  "qc": " "
+ },
+ {
+  "Stn Id": 129,
+  "Station Location": "Pajaro",
+  "Latitude": 36.902778,
+  "Longitude": -121.741931,
+  "qc": " "
+ },
+ {
+  "Stn Id": 197,
+  "Station Location": "Palmdale",
+  "Latitude": 34.614981,
+  "Longitude": -118.032492,
+  "qc": " "
+ },
+ {
+  "Stn Id": 220,
+  "Station Location": "Palmdale Central",
+  "Latitude": 34.59231,
+  "Longitude": -118.127464,
+  "qc": " "
+ },
+ {
+  "Stn Id": 175,
+  "Station Location": "Palo Verde II",
+  "Latitude": 33.38307,
+  "Longitude": -114.719385,
+  "qc": " "
+ },
+ {
+  "Stn Id": 124,
+  "Station Location": "Panoche",
+  "Latitude": 36.890096,
+  "Longitude": -120.731665,
+  "qc": "R"
+ },
+ {
+  "Stn Id": 39,
+  "Station Location": "Parlier",
+  "Latitude": 36.597481,
+  "Longitude": -119.50412,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 265,
+  "Station Location": "Paso Robles",
+  "Latitude": 35.692266,
+  "Longitude": -120.64855,
+  "qc": " "
+ },
+ {
+  "Stn Id": 240,
+  "Station Location": "Patterson",
+  "Latitude": 33.756308,
+  "Longitude": -117.197142,
+  "qc": " "
+ },
+ {
+  "Stn Id": 253,
+  "Station Location": "Perris - Menifee",
+  "Latitude": 37.255333,
+  "Longitude": -122.3708,
+  "qc": " "
+ },
+ {
+  "Stn Id": 144,
+  "Station Location": "Pescadero",
+  "Latitude": 38.266428,
+  "Longitude": -122.616464,
+  "qc": " "
+ },
+ {
+  "Stn Id": 191,
+  "Station Location": "Petaluma",
+  "Latitude": 37.663969,
+  "Longitude": -121.885033,
+  "qc": " "
+ },
+ {
+  "Stn Id": 227,
+  "Station Location": "Pleasanton",
+  "Latitude": 38.508333,
+  "Longitude": -120.79972,
+  "qc": " "
+ },
+ {
+  "Stn Id": 157,
+  "Station Location": "Plymouth",
+  "Latitude": 37.995478,
+  "Longitude": -122.467656,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 78,
+  "Station Location": "Point San Pedro",
+  "Latitude": 34.056589,
+  "Longitude": -117.813069,
+  "qc": " "
+ },
+ {
+  "Stn Id": 169,
+  "Station Location": "Pomona",
+  "Latitude": 36.082272,
+  "Longitude": -119.093178,
+  "qc": "S"
+ },
+ {
+  "Stn Id": 257,
+  "Station Location": "Porterville",
+  "Latitude": 35.659128,
+  "Longitude": -117.636925,
+  "qc": " "
+ },
+ {
+  "Stn Id": 151,
+  "Station Location": "Ridgecrest",
+  "Latitude": 33.532222,
+  "Longitude": -114.633889,
+  "qc": " "
+ },
+ {
+  "Stn Id": 249,
+  "Station Location": "Ripley",
+  "Latitude": 37.755597,
+  "Longitude": -121.266153,
+  "qc": " "
+ },
+ {
+  "Stn Id": 44,
+  "Station Location": "Ripon",
+  "Latitude": 33.964942,
+  "Longitude": -117.336983,
+  "qc": " "
+ },
+ {
+  "Stn Id": 243,
+  "Station Location": "Riverside",
+  "Latitude": 38.249622,
+  "Longitude": -121.555528,
+  "qc": " "
+ },
+ {
+  "Stn Id": 116,
+  "Station Location": "Ryde",
+  "Latitude": 36.716806,
+  "Longitude": -121.691889,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 214,
+  "Station Location": "Salinas North",
+  "Latitude": 36.625626,
+  "Longitude": -121.537887,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 126,
+  "Station Location": "Salinas South II",
+  "Latitude": 36.854875,
+  "Longitude": -121.362693,
+  "qc": " "
+ },
+ {
+  "Stn Id": 241,
+  "Station Location": "San Benito",
+  "Latitude": 33.462405,
+  "Longitude": -117.586497,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 223,
+  "Station Location": "San Clemente",
+  "Latitude": 34.142911,
+  "Longitude": -118.36632,
+  "qc": " "
+ },
+ {
+  "Stn Id": 184,
+  "Station Location": "San Diego II",
+  "Latitude": 32.72948,
+  "Longitude": -117.139488,
+  "qc": " "
+ },
+ {
+  "Stn Id": 143,
+  "Station Location": "San Juan Valley",
+  "Latitude": 36.822926,
+  "Longitude": -121.467934,
+  "qc": " "
+ },
+ {
+  "Stn Id": 52,
+  "Station Location": "San Luis Obispo",
+  "Latitude": 35.305442,
+  "Longitude": -120.661783,
+  "qc": " "
+ },
+ {
+  "Stn Id": 160,
+  "Station Location": "San Luis Obispo West",
+  "Latitude": 35.335267,
+  "Longitude": -120.735652,
+  "qc": "S"
+ },
+ {
+  "Stn Id": 106,
+  "Station Location": "Sanel Valley",
+  "Latitude": 38.982737,
+  "Longitude": -123.088704,
+  "qc": " "
+ },
+ {
+  "Stn Id": 107,
+  "Station Location": "Santa Barbara",
+  "Latitude": 34.437352,
+  "Longitude": -119.737329,
+  "qc": " "
+ },
+ {
+  "Stn Id": 204,
+  "Station Location": "Santa Clarita",
+  "Latitude": 34.426361,
+  "Longitude": -118.517583,
+  "qc": " "
+ },
+ {
+  "Stn Id": 232,
+  "Station Location": "Santa Maria II",
+  "Latitude": 34.913472,
+  "Longitude": -120.464778,
+  "qc": " "
+ },
+ {
+  "Stn Id": 99,
+  "Station Location": "Santa Monica",
+  "Latitude": 34.044311,
+  "Longitude": -118.476886,
+  "qc": " "
+ },
+ {
+  "Stn Id": 198,
+  "Station Location": "Santa Paula",
+  "Latitude": 34.324639,
+  "Longitude": -119.104875,
+  "qc": " "
+ },
+ {
+  "Stn Id": 83,
+  "Station Location": "Santa Rosa",
+  "Latitude": 38.40355,
+  "Longitude": -122.799931,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 64,
+  "Station Location": "Santa Ynez",
+  "Latitude": 34.583144,
+  "Longitude": -120.079239,
+  "qc": " "
+ },
+ {
+  "Stn Id": 225,
+  "Station Location": "Scott Valley",
+  "Latitude": 41.577778,
+  "Longitude": -122.838125,
+  "qc": " "
+ },
+ {
+  "Stn Id": 68,
+  "Station Location": "Seeley",
+  "Latitude": 32.759575,
+  "Longitude": -115.732067,
+  "qc": " "
+ },
+ {
+  "Stn Id": 5,
+  "Station Location": "Shafter\/USDA",
+  "Latitude": 35.532695,
+  "Longitude": -119.281862,
+  "qc": " "
+ },
+ {
+  "Stn Id": 266,
+  "Station Location": "Shandon",
+  "Latitude": 35.643787,
+  "Longitude": -120.403229,
+  "qc": " "
+ },
+ {
+  "Stn Id": 224,
+  "Station Location": "Shasta College",
+  "Latitude": 40.625499,
+  "Longitude": -122.310887,
+  "qc": " "
+ },
+ {
+  "Stn Id": 264,
+  "Station Location": "Sierra Valley Center",
+  "Latitude": 39.777452,
+  "Longitude": -120.273609,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 165,
+  "Station Location": "Sisquoc",
+  "Latitude": 34.841878,
+  "Longitude": -120.212736,
+  "qc": " "
+ },
+ {
+  "Stn Id": 263,
+  "Station Location": "Smith River ",
+  "Latitude": 41.894592,
+  "Longitude": -124.16504,
+  "qc": " "
+ },
+ {
+  "Stn Id": 252,
+  "Station Location": "Soledad II",
+  "Latitude": 36.456728,
+  "Longitude": -121.344388,
+  "qc": " "
+ },
+ {
+  "Stn Id": 242,
+  "Station Location": "Staten Island",
+  "Latitude": 38.192386,
+  "Longitude": -121.510339,
+  "qc": "M"
+ },
+ {
+  "Stn Id": 15,
+  "Station Location": "Stratford",
+  "Latitude": 36.158138,
+  "Longitude": -119.851408,
+  "qc": " "
+ },
+ {
+  "Stn Id": 62,
+  "Station Location": "Temecula",
+  "Latitude": 33.48665,
+  "Longitude": -117.228269,
+  "qc": " "
+ },
+ {
+  "Stn Id": 237,
+  "Station Location": "Temecula East III",
+  "Latitude": 33.55281,
+  "Longitude": -117.043302,
+  "qc": "Y"
+ },
+ {
+  "Stn Id": 218,
+  "Station Location": "Thermal South",
+  "Latitude": 33.595736,
+  "Longitude": -116.158761,
+  "qc": " "
+ },
+ {
+  "Stn Id": 173,
+  "Station Location": "Torrey Pines",
+  "Latitude": 32.901867,
+  "Longitude": -117.250458,
+  "qc": " "
+ },
+ {
+  "Stn Id": 91,
+  "Station Location": "Tulelake FS",
+  "Latitude": 41.958869,
+  "Longitude": -121.472372,
+  "qc": " "
+ },
+ {
+  "Stn Id": 140,
+  "Station Location": "Twitchell Island",
+  "Latitude": 38.121739,
+  "Longitude": -121.674455,
+  "qc": " "
+ },
+ {
+  "Stn Id": 171,
+  "Station Location": "Union City",
+  "Latitude": 37.598758,
+  "Longitude": -122.053233
+ },
+ {
+  "Stn Id": 235,
+  "Station Location": "Verona",
+  "Latitude": 38.797944,
+  "Longitude": -121.611361
+ },
+ {
+  "Stn Id": 117,
+  "Station Location": "Victorville",
+  "Latitude": 34.475914,
+  "Longitude": -117.263514
+ },
+ {
+  "Stn Id": 209,
+  "Station Location": "Watsonville West II",
+  "Latitude": 36.913166,
+  "Longitude": -121.823497
+ },
+ {
+  "Stn Id": 219,
+  "Station Location": "West Hills",
+  "Latitude": 34.214197,
+  "Longitude": -118.644769
+ },
+ {
+  "Stn Id": 105,
+  "Station Location": "Westlands",
+  "Latitude": 36.634028,
+  "Longitude": -120.381811
+ },
+ {
+  "Stn Id": 181,
+  "Station Location": "Westmorland North",
+  "Latitude": 33.080733,
+  "Longitude": -115.6857
+ },
+ {
+  "Stn Id": 250,
+  "Station Location": "Williams",
+  "Latitude": 39.210667,
+  "Longitude": -122.168889
+ },
+ {
+  "Stn Id": 179,
+  "Station Location": "Winchester",
+  "Latitude": 33.663325,
+  "Longitude": -117.093383,
+  "Column7": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+ },
+ {
+  "Stn Id": 103,
+  "Station Location": "Windsor",
+  "Latitude": 38.526822,
+  "Longitude": -122.813886
+ },
+ {
+  "Stn Id": 139,
+  "Station Location": "Winters",
+  "Latitude": 38.501258,
+  "Longitude": -121.978528
+ },
+ {
+  "Stn Id": 226,
+  "Station Location": "Woodland",
+  "Latitude": 38.672722,
+  "Longitude": -121.811722
+ }
+]

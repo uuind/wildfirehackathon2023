@@ -1,0 +1,12 @@
+<et-xml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<data>
+		<provider name="cimis" type="station" owner="water.ca.gov">
+			<record date="2013-10-08" julian="281" station="216" standard="english" zip-code="91040, 91331, 91352" scope="daily">
+				<day-precip qc=" " unit="(in)">0</day-precip>
+			</record>
+			<record date="2013-10-09" julian="282" station="216" standard="english" zip-code="91040, 91331, 91352" scope="daily">
+				<day-precip qc=" " unit="(in)">0.33</day-precip>
+			</record>
+		</provider>
+	</data>
+</et-xml>
